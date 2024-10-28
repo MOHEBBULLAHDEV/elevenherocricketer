@@ -1,0 +1,12 @@
+.custom-hero-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.custom-btn{
+    background-color: #E7FE29;
+    border: 5px inset black;
+}
+.custom-btn:hover{
+    background-color: #E7FE29;
+    border: 5px inset black;
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "batting_style": "Left-hand bat",
+        "bowling_style": "Left-arm orthodox",
+        "rating": 9,
+        "price": 800000,
+        "photo": "https://i.ibb.co.com/Jj0MgJY/463891798-947686354064423-77150076439970755-n.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mashrafe Mortaza",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm fast",
+        "rating": 8,
+        "price": 700000,
+        "photo": "https://i.ibb.co.com/phw6tQB/images.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "batting_style": "Left-hand bat",
+        "bowling_style": "N/A",
+        "rating": 8,
+        "price": 600000,
+        "photo": "https://i.ibb.co.com/YZXzz5V/415496411-929231018566588-2597722085152956394-n.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mahmudullah",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm medium",
+        "rating": 7,
+        "price": 500000,
+        "photo": "https://i.ibb.co.com/Gsft014/mahmudullah-1200.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Shahid Khan Afridi",
+        "country": "Pakistan",
+        "role": "Allrounder",
+        "batting_style": "Right hand Bat",
+        "bowling_style": "Legbreak Googly",
+        "rating": 7,
+        "price": 450000,
+        "photo": "https://i.ibb.co.com/280WxHJ/shahid-afridi-af9a7cae-656d-11e8-a998-12ee0acfa260.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Left-arm fast",
+        "rating": 8,
+        "price": 550000,
+        "photo": "https://i.ibb.co.com/Cn2TZws/Mustafizur-Rahman-1024x577.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Riyad Mahmud",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "batting_style": "Right-hand bat",
+        "bowling_style": "Right-arm medium",
+        "rating": 6,
+        "price": 400000,
+        "photo": "https://i.ibb.co.com/q5M2Sh3/mahmudullah-disappointed-09-10-2024.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sachin Ramesh Tendulkar",
+        "country": "India",
+        "role": "Batsman",
+        "batting_style": "Right hand Bat",
+        "bowling_style": "Legbreak Googly",
+        "rating": 7,
+        "price": 450000,
+        "photo": "https://i.ibb.co.com/mF3Qzzj/57652778-10157195781854188-2891713347667886080-n.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Christopher Henry Gayle",
+        "country": "west indies",
+        "role": "Allrounder",
+        "batting_style": "Left hand Bat",
+        "bowling_style": "Right arm Offbreak",
+        "rating": 6,
+        "price": 400000,
+        "photo": "https://i.ibb.co.com/fXzyLDZ/images-1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tanzim Sakib",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting_style": "N/A",
+        "bowling_style": "Left-arm fast",
+        "rating": 5,
+        "price": 300000,
+        "photo": "https://i.ibb.co.com/GV64x5q/Sakib-1.png"
+    }
+]

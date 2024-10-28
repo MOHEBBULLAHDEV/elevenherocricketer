@@ -1,0 +1,8 @@
+.subscribe-btn{
+    border: 1px solid black;
+    background: rgb(185,25,122);
+background: linear-gradient(86deg, rgba(185,25,122,1) 0%, rgba(252,176,69,1) 100%);
+}
+.background-img{
+    background: url("../../assets/images/bg-shadow.png");
+}
